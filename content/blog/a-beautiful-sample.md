@@ -4,7 +4,7 @@ excerpt: Learn how to relax and not worry!
 date: 2025-04-15
 readingTime: 8
 category: Unity
-thumbnail: /images/blog/unity-animation.jpg
+thumbnail: /images/blog/notable.png
 ---
 
 ---
