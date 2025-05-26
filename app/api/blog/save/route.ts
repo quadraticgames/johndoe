@@ -1,8 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { writeFile } from 'fs/promises';
-import { join } from 'path';
-import { mkdir } from 'fs/promises';
-import { existsSync } from 'fs';
 
 export async function POST(request: NextRequest) {
   try {
@@ -21,40 +17,31 @@ export async function POST(request: NextRequest) {
       .replace(/[^\w\s-]/g, '')
       .replace(/\s+/g, '-');
     
-    // For Vercel deployment, we can't write to the filesystem directly
-    // Instead, we'll return a mock success response
-    
-    // Extract title from content for the response
+    // Extract metadata from content
     const titleMatch = content.match(/title:\s*(.+)/);
     const title = titleMatch ? titleMatch[1] : safeSlug;
     
+    const dateMatch = content.match(/date:\s*(.+)/);
+    const date = dateMatch ? dateMatch[1] : new Date().toISOString();
+    
+    const excerptMatch = content.match(/excerpt:\s*(.+)/);
+    const excerpt = excerptMatch ? excerptMatch[1] : '';
+    
+    // In a real app, you would save this to a database
+    // For this demo, we'll just return success with the processed data
     return NextResponse.json({
       success: true,
       slug: safeSlug,
       path: `/blog/${safeSlug}`,
       title: title,
-      message: "Note: In Vercel's serverless environment, files can't be written directly to the filesystem. In a production app, you would integrate with a database or CMS to store blog posts.",
-      preview: content.substring(0, 200) + '...'
+      date: date,
+      excerpt: excerpt,
+      savedContent: content
     });
-    
-    /* 
-    // This code works locally but not on Vercel:
-    // Determine the target directory - we'll save to content/blog
-    const targetDir = join(process.cwd(), 'content', 'blog');
-    
-    // Ensure the directory exists
-    if (!existsSync(targetDir)) {
-      await mkdir(targetDir, { recursive: true });
-    }
-    
-    // Write the file to the target directory
-    const filePath = join(targetDir, `${safeSlug}.md`);
-    await writeFile(filePath, content);
-    */
   } catch (error) {
-    console.error('Error saving blog post:', error);
+    console.error('Error processing blog post:', error);
     return NextResponse.json(
-      { error: 'Error saving blog post' },
+      { error: 'Error processing blog post' },
       { status: 500 }
     );
   }

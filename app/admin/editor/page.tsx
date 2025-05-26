@@ -133,24 +133,14 @@ export default function MarkdownEditor() {
       
       // Show success message
       toast({
-        title: "Image reference added",
-        description: data.message ? data.message : `Image ${file.name} reference has been added to your post.`,
+        title: "Image added",
+        description: `Image placeholder for "${file.name}" has been added to your post.`,
       });
-      
-      // If there's a message from the server (e.g., about serverless limitations), show it
-      if (data.message && data.message.includes("serverless")) {
-        toast({
-          title: "Serverless Environment Notice",
-          description: "In this demo, images aren't actually uploaded to the server. In a production environment, you would integrate with a storage service like AWS S3 or Cloudinary.",
-          variant: "default",
-          duration: 8000,
-        });
-      }
     } catch (error) {
-      console.error("Error uploading image:", error);
+      console.error("Error processing image:", error);
       toast({
-        title: "Upload failed",
-        description: "There was an error uploading your image. Please try again.",
+        title: "Image processing failed",
+        description: "There was an error adding your image. Please try again.",
         variant: "destructive",
       });
     } finally {
@@ -188,7 +178,7 @@ excerpt: ${postData.excerpt}
 date: ${postData.date}
 readingTime: ${postData.readingTime}
 category: ${postData.category}
-thumbnail: ${postData.thumbnail}
+thumbnail: ${postData.thumbnail || ''}
 ---
 
 ${postData.content}`;
@@ -217,23 +207,37 @@ ${postData.content}`;
         description: `Your post "${postData.title}" has been processed successfully.`,
       });
       
-      // If there's a message from the server (e.g., about serverless limitations), show it
-      if (data.message && data.message.includes("serverless")) {
-        toast({
-          title: "Serverless Environment Notice",
-          description: data.message,
-          variant: "default",
-          duration: 8000,
+      // Show a demo notice
+      toast({
+        title: "Demo Mode",
+        description: "This is a demo environment. In a production app, your post would be saved to a database or CMS.",
+        variant: "default",
+        duration: 5000,
+      });
+      
+      // Optional: Save to localStorage for demo purposes
+      try {
+        const savedPosts = JSON.parse(localStorage.getItem('demoSavedPosts') || '[]');
+        savedPosts.push({
+          slug,
+          title: postData.title,
+          excerpt: postData.excerpt,
+          date: postData.date,
+          thumbnail: postData.thumbnail,
+          preview: postData.content.substring(0, 100) + '...'
         });
+        localStorage.setItem('demoSavedPosts', JSON.stringify(savedPosts));
+      } catch (localStorageError) {
+        console.error('Error saving to localStorage:', localStorageError);
       }
       
       // Reset form or redirect to the post
       // window.location.href = `/blog/${slug}`;
     } catch (error) {
-      console.error("Error saving blog post:", error);
+      console.error("Error processing blog post:", error);
       toast({
-        title: "Save failed",
-        description: "There was an error saving your blog post. Please try again.",
+        title: "Processing failed",
+        description: "There was an error processing your blog post. Please try again.",
         variant: "destructive",
       });
     }
