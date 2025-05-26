@@ -10,8 +10,9 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['var(--font-inter)'],
+        sans: ['var(--font-plus-jakarta-sans)'],
         'space-grotesk': ['var(--font-space-grotesk)'],
+        'inter': ['var(--font-inter)'],
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
