@@ -56,7 +56,10 @@ export function SiteHeader() {
           </div>
           <div className="flex items-center gap-2">
             <ThemeToggle />
-            <Button asChild variant="default" size="sm" className="ml-4 bg-primary hover:bg-primary/80">
+            <Button asChild variant="outline" size="sm" className="ml-2">
+              <Link href="/admin/editor">Editor</Link>
+            </Button>
+            <Button asChild variant="default" size="sm" className="ml-2 bg-primary hover:bg-primary/80">
               <Link href="/contact">Contact</Link>
             </Button>
           </div>
