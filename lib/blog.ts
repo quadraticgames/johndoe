@@ -12,6 +12,7 @@ export interface BlogPost {
   date: string;
   readingTime: string;
   category: string;
+  thumbnail?: string;
   content?: string;
 }
 
@@ -56,6 +57,7 @@ export async function getAllPosts(): Promise<BlogPost[]> {
             date: data.date || new Date().toISOString().split('T')[0],
             readingTime: data.readingTime || '5 min read',
             category: data.category || 'Uncategorized',
+            thumbnail: data.thumbnail || '/images/blog-placeholder.jpg',
           } as BlogPost;
         } catch (err) {
           console.error(`Error processing blog file ${fileName}:`, err);
@@ -110,6 +112,7 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
       date: data.date || new Date().toISOString().split('T')[0],
       readingTime: data.readingTime || '5 min read',
       category: data.category || 'Uncategorized',
+      thumbnail: data.thumbnail || '/images/blog-placeholder.jpg',
       content: htmlContent,
     } as BlogPost;
   } catch (error) {
