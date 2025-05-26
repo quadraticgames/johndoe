@@ -17,49 +17,84 @@ export interface BlogPost {
 
 // This should be run only on the server side
 export async function getAllPosts(): Promise<BlogPost[]> {
-  console.log('Reading blog posts from:', blogsDirectory);
-  
-  // Check if directory exists
-  if (!fs.existsSync(blogsDirectory)) {
-    console.log('Blog directory does not exist');
+  try {
+    console.log('Reading blog posts from:', blogsDirectory);
+    
+    // Check if directory exists
+    if (!fs.existsSync(blogsDirectory)) {
+      console.log('Blog directory does not exist');
+      return [];
+    }
+    
+    // Get all markdown files
+    const fileNames = fs.readdirSync(blogsDirectory);
+    console.log('Found blog files:', fileNames);
+    
+    if (!fileNames || fileNames.length === 0) {
+      console.log('No blog files found');
+      return [];
+    }
+    
+    const allPostsData = fileNames
+      .filter((fileName) => fileName.endsWith('.md'))
+      .map((fileName) => {
+        try {
+          // Remove ".md" from file name to get slug
+          const slug = fileName.replace(/\.md$/, '');
+
+          // Read markdown file as string
+          const fullPath = path.join(blogsDirectory, fileName);
+          const fileContents = fs.readFileSync(fullPath, 'utf8');
+
+          // Parse metadata section
+          const { data } = matter(fileContents);
+
+          return {
+            slug,
+            title: data.title || 'Untitled Post',
+            excerpt: data.excerpt || 'No excerpt available',
+            date: data.date || new Date().toISOString().split('T')[0],
+            readingTime: data.readingTime || '5 min read',
+            category: data.category || 'Uncategorized',
+          } as BlogPost;
+        } catch (err) {
+          console.error(`Error processing blog file ${fileName}:`, err);
+          return null;
+        }
+      })
+      .filter((post): post is BlogPost => post !== null)
+      .sort((a, b) => {
+        try {
+          return new Date(b.date) > new Date(a.date) ? 1 : -1;
+        } catch {
+          return 0;
+        }
+      }); // Sort by date
+
+    return allPostsData;
+  } catch (error) {
+    console.error('Error getting all posts:', error);
     return [];
   }
-  
-  // Get all markdown files
-  const fileNames = fs.readdirSync(blogsDirectory);
-  console.log('Found blog files:', fileNames);
-  
-  const allPostsData = fileNames
-    .filter((fileName) => fileName.endsWith('.md'))
-    .map((fileName) => {
-      // Remove ".md" from file name to get slug
-      const slug = fileName.replace(/\.md$/, '');
-
-      // Read markdown file as string
-      const fullPath = path.join(blogsDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, 'utf8');
-
-      // Parse metadata section
-      const { data } = matter(fileContents);
-
-      return {
-        slug,
-        title: data.title,
-        excerpt: data.excerpt,
-        date: data.date,
-        readingTime: data.readingTime,
-        category: data.category,
-      } as BlogPost;
-    })
-    .sort((a, b) => (new Date(b.date) > new Date(a.date) ? 1 : -1)); // Sort by date
-
-  return allPostsData;
 }
 
 // This should be run only on the server side
 export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
   try {
+    // Check if directory exists
+    if (!fs.existsSync(blogsDirectory)) {
+      console.log('Blog directory does not exist when getting post by slug');
+      return null;
+    }
+    
     const fullPath = path.join(blogsDirectory, `${slug}.md`);
+    
+    // Check if file exists
+    if (!fs.existsSync(fullPath)) {
+      console.log(`Blog post file for slug '${slug}' does not exist`);
+      return null;
+    }
+    
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
     // Parse the post metadata and content
@@ -70,11 +105,11 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
 
     return {
       slug,
-      title: data.title,
-      excerpt: data.excerpt,
-      date: data.date,
-      readingTime: data.readingTime,
-      category: data.category,
+      title: data.title || 'Untitled Post',
+      excerpt: data.excerpt || 'No excerpt available',
+      date: data.date || new Date().toISOString().split('T')[0],
+      readingTime: data.readingTime || '5 min read',
+      category: data.category || 'Uncategorized',
       content: htmlContent,
     } as BlogPost;
   } catch (error) {

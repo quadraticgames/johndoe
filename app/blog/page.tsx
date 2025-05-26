@@ -20,20 +20,27 @@ export default async function BlogPage() {
           </p>
         </div>
 
-        <div className="mx-auto grid max-w-7xl gap-8 md:grid-cols-2 lg:grid-cols-3">
-          {allPosts.map((post, index) => (
-            <BlogCard
-              key={post.slug}
-              title={post.title}
-              excerpt={post.excerpt}
-              date={post.date}
-              readingTime={post.readingTime}
-              category={post.category}
-              slug={post.slug}
-              index={index}
-            />
-          ))}
-        </div>
+        {allPosts.length > 0 ? (
+          <div className="mx-auto grid max-w-7xl gap-8 md:grid-cols-2 lg:grid-cols-3">
+            {allPosts.map((post, index) => (
+              <BlogCard
+                key={post.slug}
+                title={post.title}
+                excerpt={post.excerpt}
+                date={post.date}
+                readingTime={post.readingTime}
+                category={post.category}
+                slug={post.slug}
+                index={index}
+              />
+            ))}
+          </div>
+        ) : (
+          <div className="text-center py-12">
+            <p className="text-xl text-muted-foreground">No blog posts found.</p>
+            <p className="mt-2">Check back soon for new content!</p>
+          </div>
+        )}
       </main>
       <SiteFooter />
     </div>
