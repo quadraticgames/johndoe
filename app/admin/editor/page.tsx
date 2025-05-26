@@ -131,10 +131,21 @@ export default function MarkdownEditor() {
         setPostData((prev) => ({ ...prev, thumbnail: imagePath }));
       }
       
+      // Show success message
       toast({
-        title: "Image uploaded",
-        description: `Image ${file.name} has been uploaded and inserted.`,
+        title: "Image reference added",
+        description: data.message ? data.message : `Image ${file.name} reference has been added to your post.`,
       });
+      
+      // If there's a message from the server (e.g., about serverless limitations), show it
+      if (data.message && data.message.includes("serverless")) {
+        toast({
+          title: "Serverless Environment Notice",
+          description: "In this demo, images aren't actually uploaded to the server. In a production environment, you would integrate with a storage service like AWS S3 or Cloudinary.",
+          variant: "default",
+          duration: 8000,
+        });
+      }
     } catch (error) {
       console.error("Error uploading image:", error);
       toast({
@@ -198,10 +209,23 @@ ${postData.content}`;
         throw new Error("Failed to save blog post");
       }
       
+      const data = await response.json();
+      
+      // Show success message
       toast({
-        title: "Blog post saved",
-        description: `Your post "${postData.title}" has been saved successfully.`,
+        title: "Blog post processed",
+        description: `Your post "${postData.title}" has been processed successfully.`,
       });
+      
+      // If there's a message from the server (e.g., about serverless limitations), show it
+      if (data.message && data.message.includes("serverless")) {
+        toast({
+          title: "Serverless Environment Notice",
+          description: data.message,
+          variant: "default",
+          duration: 8000,
+        });
+      }
       
       // Reset form or redirect to the post
       // window.location.href = `/blog/${slug}`;

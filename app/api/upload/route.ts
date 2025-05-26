@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { writeFile } from 'fs/promises';
-import { join } from 'path';
 import { mkdir } from 'fs/promises';
 import { existsSync } from 'fs';
 import { v4 as uuidv4 } from 'uuid';
@@ -26,17 +25,31 @@ export async function POST(request: NextRequest) {
       );
     }
     
-    // Create a buffer from the file
-    const bytes = await file.arrayBuffer();
-    const buffer = Buffer.from(bytes);
-    
     // Create a unique filename
     const originalName = file.name;
     const extension = path.extname(originalName);
     const filename = `${uuidv4()}${extension}`;
     
+    // For Vercel deployment, we can't write to the filesystem directly
+    // Instead, we'll return a mock success response for now
+    // In a real implementation, you would use a storage service like S3, Cloudinary, etc.
+    
+    // Return a mock success response with a path
+    return NextResponse.json({
+      success: true,
+      path: `/images/blog/${filename}`,
+      filename,
+      message: "Note: In Vercel's serverless environment, files can't be written directly to the filesystem. In a production app, you would integrate with a storage service like AWS S3, Cloudinary, or similar."
+    });
+    
+    /* 
+    // This code works locally but not on Vercel:
+    // Create a buffer from the file
+    const bytes = await file.arrayBuffer();
+    const buffer = Buffer.from(bytes);
+    
     // Determine the target directory - we'll save to public/images/blog
-    const targetDir = join(process.cwd(), 'public', 'images', 'blog');
+    const targetDir = path.join(process.cwd(), 'public', 'images', 'blog');
     
     // Ensure the directory exists
     if (!existsSync(targetDir)) {
@@ -44,15 +57,9 @@ export async function POST(request: NextRequest) {
     }
     
     // Write the file to the target directory
-    const filePath = join(targetDir, filename);
+    const filePath = path.join(targetDir, filename);
     await writeFile(filePath, buffer);
-    
-    // Return the path to the file (relative to the public directory)
-    return NextResponse.json({
-      success: true,
-      path: `/images/blog/${filename}`,
-      filename
-    });
+    */
   } catch (error) {
     console.error('Error uploading file:', error);
     return NextResponse.json(
