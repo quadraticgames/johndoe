@@ -91,6 +91,7 @@ export function FeaturedPosts() {
               readingTime={post.readingTime}
               category={post.category}
               slug={post.slug}
+              thumbnail={post.thumbnail}
               index={index}
             />
           ))}
