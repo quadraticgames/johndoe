@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "tools"
   - "unreal"
-coverImage: "fncreative.png"
+thumbnail: "/images/blog/fncreative.png"
 ---
 
 ![](images/Teaching-With-Fortnite-Creative.png)

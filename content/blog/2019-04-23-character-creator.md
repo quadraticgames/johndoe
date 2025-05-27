@@ -4,7 +4,7 @@ date: 2019-04-23
 categories: 
   - "game-design"
   - "projects"
-coverImage: "Screenshot_9.png"
+thumbnail: "/images/blog/Screenshot_9.png"
 ---
 
 I have completed another small project for a larger game project I am contributing to. This project is a 3D character editor for a sports game. The screen shots below show the progression from the original draft to the final version.

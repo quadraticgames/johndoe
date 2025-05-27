@@ -4,7 +4,7 @@ date: 2019-03-17
 categories: 
   - "game-design"
   - "tools"
-coverImage: "quadraticgdd-1.png"
+thumbnail: "/images/blog/quadraticgdd-1.png"
 ---
 
 [![](images/quadraticgdd.png)](/downloads/GDD.zip)

@@ -4,7 +4,7 @@ date: 2023-08-01
 categories: 
   - "creative-arts"
   - "tools"
-coverImage: "minecraft.jpg"
+thumbnail: "/images/blog/minecraft.jpg"
 ---
 
 Minecraft, the iconic sandbox game, has been a platform for creativity and learning since its inception. But did you know that you can take your Minecraft creations to the next level by exporting them into Blender and other professional 3D computer graphics programs? This is where **Mineways** comes into play.

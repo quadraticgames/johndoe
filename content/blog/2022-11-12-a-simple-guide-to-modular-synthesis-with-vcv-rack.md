@@ -4,7 +4,7 @@ date: 2022-11-12
 categories: 
   - "audio"
   - "tools"
-coverImage: "vcvpng.png"
+thumbnail: "/images/blog/vcvpng.png"
 ---
 
 **Modular synthesis** is an incredibly powerful method of electronic music production that emphasizes patching and routing, where the audio and control voltage (CV) paths are completely modular and can be rearranged and interchanged to create a ton of different sounds. A modular synth is usually composed of a few ‘modules’ such as oscillators, filters, and voltage-controlled amplifiers (VCAs) that are wired together in a ‘patch’ and controlled via a ‘CV’ or ‘gate’ system.

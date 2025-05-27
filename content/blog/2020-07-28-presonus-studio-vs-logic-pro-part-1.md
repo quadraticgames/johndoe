@@ -4,7 +4,7 @@ date: 2020-07-28
 categories: 
   - "audio"
   - "tools"
-coverImage: "quadraticlogicpro.png"
+thumbnail: "/images/blog/quadraticlogicpro.png"
 ---
 
 ## Some Background...

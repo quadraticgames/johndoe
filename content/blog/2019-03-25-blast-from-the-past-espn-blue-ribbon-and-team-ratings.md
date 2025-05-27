@@ -3,7 +3,7 @@ title: "Blast From the Past: ESPN, Blue Ribbon and Team Ratings"
 date: 2019-03-25
 categories: 
   - "game-design"
-coverImage: "ncaa.png"
+thumbnail: "/images/blog/ncaa.png"
 ---
 
 ![](images/18-19PerfectBound_sized_large_1c78ade4-8578-408e-a857-b86f8398ab97_large.png)

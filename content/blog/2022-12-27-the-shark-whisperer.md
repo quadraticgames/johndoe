@@ -4,7 +4,7 @@ date: 2022-12-27
 categories: 
   - "artificial-intelligence-ai"
   - "creative-arts"
-coverImage: "cover.png"
+thumbnail: "/images/blog/cover.png"
 ---
 
 # The Shark Whisperer

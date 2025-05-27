@@ -5,7 +5,7 @@ categories:
   - "creative-arts"
   - "other"
   - "tools"
-coverImage: "shortstoryblog.png"
+thumbnail: "/images/blog/shortstoryblog.png"
 ---
 
 Hey there, fellow storytellers! Have you ever found yourself stuck in a writing rut, staring at a blank page, and wishing you could summon a muse to sprinkle some creative magic? I know I have.

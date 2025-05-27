@@ -3,7 +3,7 @@ title: "Testing Your Game"
 date: 2021-08-31
 categories: 
   - "game-design"
-coverImage: "gd.png"
+thumbnail: "/images/blog/gd.png"
 ---
 
 This handy checklist from the folks at Mantacore Games is one of the most concise, soup-to-nuts overviews of just about everything you need to check for before publishing a game as games get more complicated now a days you need to be careful with this, while if what you want is to play, you should try the [olympic kingsway casinos](https://olympic-kingsway.com.au/489-2/posts/ilucki-casino/) to play games and make some money online as well. Although this guide is geared towards games played in 3D space, most of these rules apply to any kind of game. You can find the original article [here](https://docs.coregames.com/fr/getting_started/publishing_checklist/).

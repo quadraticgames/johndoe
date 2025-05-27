@@ -3,7 +3,7 @@ title: "Revisiting Source Control"
 date: 2019-03-24
 categories: 
   - "tools"
-coverImage: "git.png"
+thumbnail: "/images/blog/git.png"
 ---
 
 ![](images/git-workflow-gitflow.png)

@@ -4,7 +4,7 @@ date: 2019-03-16
 categories: 
   - "game-design"
   - "projects"
-coverImage: "fwater.png"
+thumbnail: "/images/blog/fwater.png"
 ---
 
 The first playable "game" project I built (mostly) by myself is called **Fallingwater.** This is based on a fantastic LinkedIn Learning (formerly Lynda.com) tutorial showing how game engines can be used not just to build games, but other things like (in this case) visualizing architectural models in 3D.

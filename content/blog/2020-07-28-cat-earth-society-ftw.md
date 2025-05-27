@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "projects"
   - "unreal"
-coverImage: "ces.png"
+thumbnail: "/images/blog/ces.png"
 ---
 
 Cat-Earth Society (CES) is an [award-winning](https://www.unrealengine.com/en-US/blog/celebrating-the-winners-of-the-2019-epic-megajam?sessionInvalidated=true) submission to the 2019 Epic MegaJam. CES won the TINY AWARD for the best game that came in under 100MB. The original 5-member development team is expanding on CES and working towards a future commercial release! [Be sure to join our Discord server](https://discord.gg/789urVY) for the latest updates on the game. If you haven't seen or played Cat-Earth Society, check out the content below.

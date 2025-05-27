@@ -5,7 +5,7 @@ categories:
   - "artificial-intelligence-ai"
   - "projects"
   - "tools"
-thumbnail: "/images/blogappblog.png"
+thumbnail: "/images/blog/appblog.png"
 ---
 
 Creating [**Hue Two: A Duotone Zoo**](https://duotoneapp.netlify.app), a playful duotone image editor, was an exciting mix of creativity, coding, and collaboration—with AI lending me a helping hand throughout the process. In this article, I'll walk through how I built this web app, the challenges I faced, and how AI provided key insights and solutions along the way.

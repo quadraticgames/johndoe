@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "projects"
   - "unreal"
-coverImage: "MainMenu.png"
+thumbnail: "/images/blog/MainMenu.png"
 ---
 
 Just released a new game for a game jam (although, it didn't make the submission list, long story...). The name of the game is _**J.P. Winkle's Jungle Hunt!**_ and it is a 3D walking simulation / treasure hunt built in Unreal Engine. The jam was one-week long, although this game came together in about four days. This was my first collaboration with my son John Stallings, who did the voiceover work. The theme of the game jam was "discovery."

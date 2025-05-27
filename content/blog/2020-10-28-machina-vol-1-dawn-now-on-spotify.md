@@ -4,7 +4,7 @@ date: 2020-10-28
 categories: 
   - "audio"
   - "projects"
-coverImage: "aimus.png"
+thumbnail: "/images/blog/aimus.png"
 ---
 
 I've just released a new album on Spotify - "Machina Vol. 1: Dawn." Machina is a multi-album musical concept project containing songs composed with the assistance of artificial intelligence tools (AI), performed by virtual performers (software instruments), and mastered using AI.

@@ -5,7 +5,7 @@ categories:
   - "audio"
   - "tools"
   - "unreal"
-coverImage: "quadratic-games-synth-ui.png"
+thumbnail: "/images/blog/quadratic-games-synth-ui.png"
 ---
 
 **Modular Synth UI Pro** for Unreal Engine is something I've been waiting for someone to tackle for a few years now. It really shows off the capabilities of Unreal Engine's Modular Synth with an interface that is infinitely more musician-friendly than tweaking inspector panels and blueprints is.

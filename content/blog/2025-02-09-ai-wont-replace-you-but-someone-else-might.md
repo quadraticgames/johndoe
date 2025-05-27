@@ -4,7 +4,7 @@ date: 2025-02-09
 categories: 
   - "artificial-intelligence-ai"
   - "tools"
-thumbnail: "/images/blogcwork.png"
+thumbnail: "/images/blog/cwork.png"
 ---
 
 \[caption id="attachment\_976" align="aligncenter" width="2912"\]![](images/cwork.png) Credits: Author via Midjourney.\[/caption\]

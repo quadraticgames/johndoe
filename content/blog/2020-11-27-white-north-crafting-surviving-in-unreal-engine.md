@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "projects"
   - "unreal"
-coverImage: "Screenshot-42.png"
+thumbnail: "/images/blog/Screenshot-42.png"
 ---
 
 I've been working on a crafting and survival game for the past few weeks, with the working title of "White North." I'll probably set it aside for now, but it's been another great learning experience in Unreal Engine. The working game uses a lot of the fantastic frameworks sold by Defuse Studios on the Unreal Marketplace.

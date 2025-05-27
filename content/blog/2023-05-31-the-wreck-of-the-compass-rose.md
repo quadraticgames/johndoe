@@ -4,7 +4,7 @@ date: 2023-05-31
 categories: 
   - "artificial-intelligence-ai"
   - "creative-arts"
-coverImage: "harpy.png"
+thumbnail: "/images/blog/harpy.png"
 ---
 
 ### A Dungeons & Dragons Short

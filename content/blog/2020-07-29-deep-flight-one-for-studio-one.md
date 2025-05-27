@@ -4,7 +4,7 @@ date: 2020-07-29
 categories: 
   - "audio"
   - "tools"
-coverImage: "df1.png"
+thumbnail: "/images/blog/df1.png"
 ---
 
 ![](images/deep-flight-one-04.png)

@@ -5,7 +5,7 @@ categories:
   - "projects"
   - "tools"
   - "unreal"
-coverImage: "quadratic-oculus.png"
+thumbnail: "/images/blog/quadratic-oculus.png"
 ---
 
 With the help of several invaluable tutorials and resources, I am pleased to offer a fully-functional Unreal Engine project with VR controls allowing the user to fully move about a VR 3D space using **Oculus Touch** controllers.

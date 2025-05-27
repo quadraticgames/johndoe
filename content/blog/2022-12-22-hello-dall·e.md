@@ -3,7 +3,7 @@ title: "Hello DALL·E!"
 date: 2022-12-22
 categories: 
   - "tools"
-coverImage: "dalle.png"
+thumbnail: "/images/blog/dalle.png"
 ---
 
 **DALL·E 2** is an artificial intelligence (AI) art platform created by Open AI, designed to turn natural language into realistic images and art. This AI platform can generate images from text descriptions in just seconds, allowing users to create stunning, unique - and sometimes outright creepy - visuals for their projects.

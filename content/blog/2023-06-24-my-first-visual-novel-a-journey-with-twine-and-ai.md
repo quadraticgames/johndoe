@@ -6,7 +6,7 @@ categories:
   - "game-design"
   - "projects"
   - "tools"
-coverImage: "lelilana.png"
+thumbnail: "/images/blog/lelilana.png"
 ---
 
 Hello, fellow storytellers and tech enthusiasts! I'm thrilled to share my recent adventure in the realm of interactive fiction. I've just completed my first visual novel, and the journey was as exciting as the story itself. The stars of this journey? An open-source platform called Twine, and my trusty AI design assistants.

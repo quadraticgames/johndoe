@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "projects"
   - "unreal"
-coverImage: "dmn.png"
+thumbnail: "/images/blog/dmn.png"
 ---
 
 **_Drone Mountain_** is a semi-realistic drone / quad-copter simulation that  I built in Unreal Engine. A quad-copter is a multi-rotor helicopter that is lifted and propelled by four rotors. You can pilot your drone in an Arctic environment with a control scheme that is similar to what real-world drone pilots (like me :) ) use.

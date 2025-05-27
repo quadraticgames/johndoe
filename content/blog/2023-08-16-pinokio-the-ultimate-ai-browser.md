@@ -4,7 +4,7 @@ date: 2023-08-16
 categories: 
   - "artificial-intelligence-ai"
   - "tools"
-coverImage: "pinno.png"
+thumbnail: "/images/blog/pinno.png"
 ---
 
 In the ever-expanding universe of artificial intelligence, it's fascinating to witness the emergence of new and groundbreaking technologies every day. Even with the plethora of options available, one tool has really piqued my interest lately: **[Pinokio](https://pinokio.computer/)**. This innovative browser has the potential to revolutionize the way we interact with AI and computer applications, offering a seamless and intuitive experience that has captured the attention of tech enthusiasts worldwide.

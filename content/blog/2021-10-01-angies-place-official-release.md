@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "projects"
   - "unreal"
-coverImage: "ss8.png"
+thumbnail: "/images/blog/ss8.png"
 ---
 
 _Angie’s Place_ is my game submission for the Core 2.0 Invitational hosted by Manticore games. I have released the game publicly, and you can **[play it here](https://www.coregames.com/games/ba74cd/angies-place-release)** (requires the free Core client). Here is the official feature list:

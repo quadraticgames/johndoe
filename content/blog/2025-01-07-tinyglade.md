@@ -5,7 +5,7 @@ categories:
   - "creative-arts"
   - "game-design"
   - "tools"
-thumbnail: "/images/blogtg.png"
+thumbnail: "/images/blog/tg.png"
 ---
 
 For anyone who has ever been curious about 3D modeling but felt overwhelmed by complex software or steep learning curves, [_Tiny Glade_](https://store.steampowered.com/app/2198150/Tiny_Glade/) is an absolute gem. This charming little sandbox game offers a delightful and unintimidating way to dip your toes into the world of 3D modeling while embracing a whimsical design aesthetic that feels both intuitive and rewarding.

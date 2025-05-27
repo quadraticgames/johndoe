@@ -3,7 +3,7 @@ title: "Machina Vol. II: Industrie Available on Spotify, iTunes"
 date: 2021-02-03
 categories: 
   - "audio"
-coverImage: "quadratic-machina.png"
+thumbnail: "/images/blog/quadratic-machina.png"
 ---
 
 [_**Industrie**_](https://open.spotify.com/album/4pqgarpedeNp7cghkFAWme?si=gdA7ZOABRC-cE9BBpX9Y-g) is the second entry in my Machina series and is now available on [Spotify](https://open.spotify.com/album/4pqgarpedeNp7cghkFAWme?si=gdA7ZOABRC-cE9BBpX9Y-g), [Apple Music](https://music.apple.com/us/album/machina-vol-ii-industrie/1551848601?uo=4&app=apple+music), and other streaming services. Machina is an on-going musical exploration project where my "co-collaborators" in the studio are artificial intelligence (AI) agents assisting me in both music composition and production engineering. Scroll to the bottom of this page if you would like to listen now.

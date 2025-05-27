@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "projects"
   - "unreal"
-coverImage: "og.jpg"
+thumbnail: "/images/blog/og.jpg"
 ---
 
 I am honored and humbled to have been one of only 50 developers around the world to be invited to the [Core Invitational](https://invitational.coregames.com/) This game development contest runs from August 12 to September 13 and includes a whopping $140,000 in prizes (including a Tesla Model 3)!

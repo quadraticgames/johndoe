@@ -3,7 +3,7 @@ title: "Top Free / Open Source Tools for Designers, Developers, and Creative Edu
 date: 2023-03-20
 categories: 
   - "tools"
-coverImage: "blender.jpg"
+thumbnail: "/images/blog/blender.jpg"
 ---
 
 As someone who works in design, development, and education, I understand the importance of reliable and powerful tools. While it's often believed that free applications can't match up to their paid counterparts, there are open-source options that come surprisingly close. In this article, I want to share my favorite free and open-source tools that I use regularly in my work. I'll also highlight their unique features and benefits, particularly in comparison to their commercial alternatives.

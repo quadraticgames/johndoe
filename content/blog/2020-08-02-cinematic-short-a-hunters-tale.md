@@ -5,7 +5,7 @@ categories:
   - "projects"
   - "tools"
   - "unreal"
-coverImage: "quadratic-cinematic.png"
+thumbnail: "/images/blog/quadratic-cinematic.png"
 ---
 
 Over the past several days I've been learning how to do cinematics in Unreal Engine. If you have ever used Adobe Premiere Pro, Apple's Final Cut, etc., you should find the workflow relatively intuitive.

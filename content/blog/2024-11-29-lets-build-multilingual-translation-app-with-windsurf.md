@@ -6,7 +6,7 @@ categories:
   - "creative-arts"
   - "projects"
   - "tools"
-thumbnail: "/images/blogwindsr.png"
+thumbnail: "/images/blog/windsr.png"
 ---
 
 ### Let's Go Surfing!

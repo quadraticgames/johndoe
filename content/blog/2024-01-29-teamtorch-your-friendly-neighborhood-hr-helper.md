@@ -5,7 +5,7 @@ categories:
   - "artificial-intelligence-ai"
   - "projects"
   - "tools"
-thumbnail: "/images/blogteamtorch.png"
+thumbnail: "/images/blog/teamtorch.png"
 ---
 
 In my post **[Building Your Own Custom GPT](https://quadraticgames.com/building-your-own-custom-gpt/)**, I reviewed the evolution and democratization of building custom Generative Pretrained Transformers (GPTs), highlighting the significant shift in AI from a specialized domain to one accessible to all, irrespective of coding skills. I also mentioned the (then) upcoming 24-hour CustomGPT hackathon sponsored by [LabLab.ai](http://lablab.ai/).

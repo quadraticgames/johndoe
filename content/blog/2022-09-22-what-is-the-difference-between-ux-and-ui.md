@@ -4,7 +4,7 @@ date: 2022-09-22
 categories: 
   - "game-design"
   - "tools"
-coverImage: "uiux.png"
+thumbnail: "/images/blog/uiux.png"
 ---
 
 There are many similarities between user experience and user interface design, but there are also some crucial differences. Let’s explore them in detail to help you understand the difference between UI and UX design.

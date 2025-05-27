@@ -3,7 +3,7 @@ title: "Harnessing the Power of Visual Imagery in Creative Writing"
 date: 2023-07-13
 categories: 
   - "creative-arts"
-coverImage: "scene3.png"
+thumbnail: "/images/blog/scene3.png"
 ---
 
 In the realm of creative writing, the ability to visualize and articulate vivid imagery is paramount. One innovative and effective way to cultivate this skill is through an exercise that involves _**using images to inspire plot summaries**_. This exercise not only enhances a writer's observational skills but also stimulates imagination, encouraging conciseness and fostering empathy.

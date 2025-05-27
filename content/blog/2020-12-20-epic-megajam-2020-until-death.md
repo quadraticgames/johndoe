@@ -5,7 +5,7 @@ categories:
   - "game-design"
   - "projects"
   - "unreal"
-coverImage: "quadratic-untildeath.png"
+thumbnail: "/images/blog/quadratic-untildeath.png"
 ---
 
 Really happy to have put together a super-talented team for the one-week Epic MegaJam 2020, which concluded on December 11. Game jams provide so many tangible benefits, regardless of your experience level or skill set. Learning to work in a fast-paced environment with people you barely know (or maybe have never met) is a critical skill that is valuable not just in game design, but just about any workplace setting.

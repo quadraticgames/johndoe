@@ -3,7 +3,7 @@ title: "Rapid Prototyping"
 date: 2022-10-09
 categories: 
   - "game-design"
-coverImage: "rproto.png"
+thumbnail: "/images/blog/rproto.png"
 ---
 
 The practice of rapid prototyping is undoubtedly essential to the game design process, serving as its critical cornerstone. Crafting a game is an intricate journey that requires you to bring your prototypes into existence swiftly and economically. To achieve this, you need to have a clear question or objective that you're aiming for. Don't worry about losing yourself in contemplation about the precise form your prototype should embody. Instead, focus on the interactive experience, and do so with the utmost speed and minimal cost. Remember, the prototype should serve as a learning tool, offering insights that help you pivot and explore different facets of your game design.
