@@ -47,7 +47,7 @@ export function BlogCard({
               
               {thumbnail ? (
                 <Image 
-                  src={thumbnail} 
+                  src={thumbnail.startsWith('/') ? thumbnail : `/${thumbnail}`} 
                   alt={title} 
                   width={800}
                   height={450}
