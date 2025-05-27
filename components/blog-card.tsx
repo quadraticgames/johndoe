@@ -44,6 +44,11 @@ export function BlogCard({
                 src={thumbnail || '/images/blog/blog-placeholder.jpg'}
                 alt={title}
                 className="object-cover w-full h-full"
+                onError={(e) => {
+                  console.error('Failed to load image:', thumbnail);
+                  // Fallback to placeholder if image fails to load
+                  e.currentTarget.src = '/images/blog/blog-placeholder.jpg';
+                }}
               />
             </div>
           </div>
