@@ -5,7 +5,7 @@ categories:
   - "artificial-intelligence-ai"
   - "creative-arts"
   - "game-design"
-thumbnail: "/public/images/blog/life.png"
+thumbnail: "/images/bloglife.png"
 ---
 
 One of my heroes is **John Conway**, a mathematician renowned for his contributions to the theory of finite groups, knot theory, number theory, combinatorial game theory, and coding theory. Sadly, Conway's life was cut short in 2020 due to complications related to COVID-19. He is probably most famous for devising the _Game of Life_, a Turing-complete simulation that not only showcased the potential of cellular automata but also sparked widespread interest in this field. This simulation raises some interesting philosophical issues about the nature of patterns, emergent behavior, and artificial intelligence.

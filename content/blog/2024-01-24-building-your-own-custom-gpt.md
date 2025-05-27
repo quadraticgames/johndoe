@@ -4,7 +4,7 @@ date: 2024-01-24
 categories: 
   - "artificial-intelligence-ai"
   - "tools"
-thumbnail: "/public/images/blog/customgpt.png"
+thumbnail: "/images/blogcustomgpt.png"
 ---
 
 In 2023, the landscape of Artificial Intelligence (AI) witnessed transformative advancements. Reflecting back to my first "AI" blog post in December 2022, [which delved into DALL-E](https://quadraticgames.com/hello-dall·e/), it captured the then-prevailing mainstream perception of AI: intriguing, yet somewhat whimsical tools capable of producing peculiar and creative outputs.

@@ -5,7 +5,7 @@ categories:
   - "artificial-intelligence-ai"
   - "creative-arts"
   - "game-design"
-thumbnail: "/public/images/blog/aigame.png"
+thumbnail: "/images/blogaigame.png"
 ---
 
 The gaming industry has always been a pioneer in adopting cutting-edge technology, and artificial intelligence (AI) is no exception. From creating stunning visuals to writing intricate code, AI is fundamentally reshaping how games are developed. Tools like MidJourney, DALL·E, ChatGPT, and Eleven Labs are empowering developers to work more efficiently and cost-effectively than ever before, even lending their voices to characters in ways that once required full recording studios and professional voice actors.

@@ -3,7 +3,7 @@ title: "Game Sequel Concept Activity - KISS Rise of the Avatars"
 date: 2024-01-09
 categories: 
   - "game-design"
-thumbnail: "/public/images/blog/kissriseav.png"
+thumbnail: "/images/blogkissriseav.png"
 ---
 
 ![](images/riseoftheavatars.png)
