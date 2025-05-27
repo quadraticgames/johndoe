@@ -40,16 +40,13 @@ export function BlogCard({
           <div className="relative h-48 w-full overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10" />
             <div className="relative w-full h-full">
-              {/* Display the actual image path for debugging */}
-              <div className="absolute top-0 left-0 z-20 bg-black/70 text-white text-xs p-1 max-w-full overflow-hidden">
-                Path: {thumbnail}
-              </div>
-              
-              {/* Use placeholder images until we can properly set up image deployment */}
-              <img 
-                src={`https://picsum.photos/seed/${slug}/800/450`}
+              <Image 
+                src={thumbnail ? (thumbnail.startsWith('/') ? thumbnail : `/${thumbnail}`) : '/images/blog-placeholder.jpg'}
                 alt={title}
+                width={800}
+                height={450}
                 className="object-cover w-full h-full"
+                unoptimized
               />
             </div>
           </div>
