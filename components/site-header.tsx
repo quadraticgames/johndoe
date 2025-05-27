@@ -30,7 +30,7 @@ export function SiteHeader() {
                 transition={{ duration: 0.5 }}
                 className="font-space-grotesk text-2xl font-bold tracking-tight"
               >
-                <span className="gradient-text">Portfolio</span>
+                <span className="gradient-text">Joe Stallings</span>
               </motion.div>
             </Link>
             <nav className="hidden gap-6 md:flex">

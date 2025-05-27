@@ -29,7 +29,7 @@ const allProjects = [
     githubUrl: "https://github.com/quadraticgames/lite-brite",
   },
   {
-    title: "Portfolio Website",
+    title: "Personal Website",
     description: "Modern portfolio website built with Next.js and Tailwind CSS featuring dark mode and animations.",
     imageSrc: "/placeholder-image.jpg",
     tags: ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],

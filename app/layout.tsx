@@ -9,7 +9,7 @@ const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space
 const plusJakartaSans = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-plus-jakarta-sans" });
 
 export const metadata: Metadata = {
-  title: "Your Portfolio | Developer & Creator",
+  title: "Joe Stallings",
   description: "Personal portfolio showcasing projects, apps, blog, and more",
 };
 
