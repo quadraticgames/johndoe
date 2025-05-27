@@ -21,12 +21,12 @@ const allProjects = [
     githubUrl: "https://github.com",
   },
   {
-    title: "AI Content Generator",
-    description: "A tool that leverages AI to help users generate and refine content for various purposes.",
+    title: "Lite Brite!",
+    description: "A little nod to '70s creativity and pixel fun.",
     imageSrc: "/placeholder-image.jpg",
-    tags: ["React", "Node.js", "OpenAI API", "Tailwind CSS"],
-    demoUrl: "https://example.com",
-    githubUrl: "https://github.com",
+    tags: ["React", "Node.js", "Tailwind CSS"],
+    demoUrl: "https://litebrite.vercel.app/",
+    githubUrl: "https://github.com/quadraticgames/lite-brite",
   },
   {
     title: "Portfolio Website",
