@@ -26,7 +26,7 @@ export function BlogCard({
   readingTime,
   category,
   slug,
-  thumbnail = "/images/blog-placeholder.jpg",
+  thumbnail = "/images/blog/blog-placeholder.jpg",
   index,
 }: BlogCardProps) {
   return (
@@ -41,7 +41,7 @@ export function BlogCard({
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10" />
             <div className="relative w-full h-full">
               <img 
-                src={thumbnail || '/images/blog-placeholder.jpg'}
+                src={thumbnail || '/images/blog/blog-placeholder.jpg'}
                 alt={title}
                 className="object-cover w-full h-full"
               />
