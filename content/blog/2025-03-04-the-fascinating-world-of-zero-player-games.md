@@ -4,7 +4,7 @@ date: 2025-03-04
 categories: 
   - "artificial-intelligence-ai"
   - "game-design"
-thumbnail: "/images/blog/Artboard-1.png"
+thumbnail: "/public/images/blog/Artboard-1.png"
 ---
 
 Most video games are built around one central idea: player agency. You pick up a controller, sit at a keyboard, or tap a screen, and the world inside the game responds. But what if a game didn't need a player at all? What if it simply ran on its own, unfolding according to rules rather than human input? Enter **zero-player games**, a fascinating category where gameplay is entirely automated.
