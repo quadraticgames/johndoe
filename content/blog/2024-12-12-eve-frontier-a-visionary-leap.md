@@ -5,7 +5,7 @@ categories:
   - "artificial-intelligence-ai"
   - "game-design"
   - "tools"
-thumbnail: "evefr.png"
+thumbnail: "/images/blog/evefr.png"
 ---
 
 _EVE Frontier_, the upcoming space survival simulation from CCP Games, may be poised to redefine the gaming industry. As a spiritual successor to the legendary _EVE Online_—a game I’ve been playing on and off since its launch in 2003—this ambitious project seeks to push the boundaries of player agency and economic systems within virtual worlds. At its core lies CCP CEO Hilmar Pétursson’s bold vision: _“At CCP, our mission is to have the EVE Universe outlive us all: EVE Forever.”_

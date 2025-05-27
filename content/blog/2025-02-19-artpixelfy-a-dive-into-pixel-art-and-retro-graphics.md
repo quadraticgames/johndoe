@@ -5,7 +5,7 @@ categories:
   - "creative-arts"
   - "projects"
   - "tools"
-thumbnail: "pixels.png"
+thumbnail: "/images/blog/pixels.png"
 ---
 
 Hey everyone! I'm excited to introduce my latest project: [**ArtPixelfy**](https://artpixelfy.netlify.app/), a web-based tool that transforms any image into a pixelated masterpiece. Whether you're a digital artist, a game developer, or just someone who enjoys the nostalgic charm of retro visuals, ArtPixelfy is a fun way to experiment with pixel art.

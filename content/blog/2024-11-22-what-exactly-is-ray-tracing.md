@@ -6,7 +6,7 @@ categories:
   - "game-design"
   - "tools"
   - "unreal"
-thumbnail: "raytracing.png"
+thumbnail: "/images/blog/raytracing.png"
 ---
 
 Imagine walking through a serene forest at sunrise. The golden light filters through the canopy, casting soft shadows that dance on the forest floor. You pause near a stream, watching as the sunlight reflects off the rippling water, creating dazzling patterns that seem to shimmer with life. The interplay of light, shadow, and reflection feels so natural that you don’t even think about it.
