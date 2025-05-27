@@ -40,21 +40,17 @@ export function BlogCard({
           <div className="relative h-48 w-full overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10" />
             <div className="relative w-full h-full">
-              {/* Debug information */}
+              {/* Display the actual image path for debugging */}
               <div className="absolute top-0 left-0 z-20 bg-black/70 text-white text-xs p-1 max-w-full overflow-hidden">
                 Path: {thumbnail}
               </div>
               
+              {/* Use a regular img tag instead of Next.js Image component */}
               {thumbnail ? (
-                <Image 
-                  src={thumbnail.startsWith('/') ? thumbnail : `/${thumbnail}`} 
-                  alt={title} 
-                  width={800}
-                  height={450}
-                  className="object-cover w-full h-full" 
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  priority
-                  unoptimized
+                <img 
+                  src={thumbnail.startsWith('/') ? thumbnail : `/${thumbnail}`}
+                  alt={title}
+                  className="object-cover w-full h-full"
                 />
               ) : (
                 <div className="bg-gray-200 w-full h-full flex items-center justify-center">
