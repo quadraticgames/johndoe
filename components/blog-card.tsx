@@ -40,11 +40,12 @@ export function BlogCard({
           <div className="relative h-48 w-full overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10" />
             <Image 
-              src={thumbnail} 
+              src={thumbnail.startsWith('/') ? thumbnail : `/${thumbnail}`} 
               alt={title} 
               fill 
               className="object-cover" 
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              priority
             />
           </div>
           <CardHeader>
