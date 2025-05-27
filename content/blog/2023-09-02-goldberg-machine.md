@@ -5,7 +5,7 @@ categories:
   - "creative-arts"
   - "game-design"
   - "tools"
-thumbnail: "/images/blog/rubecover.png"
+thumbnail: "/public/images/blog/goldberg.png"
 ---
 
 I am always on the lookout for innovative ways to merge technology with education. And what better way to do that than with Unreal Engine? As an instructor, I've found that Unreal Engine offers a unique platform for teaching STEM concepts in an engaging and interactive manner. One of the most exciting lesson plans I've come across recently is the **[Unreal Learning Kit on Rube Goldberg Machines](https://www.unrealengine.com/en-US/lesson-plans/unreal-learning-kit-rube-goldberg-machines)**.

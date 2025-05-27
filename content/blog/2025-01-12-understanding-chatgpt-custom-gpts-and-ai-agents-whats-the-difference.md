@@ -4,7 +4,7 @@ date: 2025-01-12
 categories: 
   - "artificial-intelligence-ai"
   - "tools"
-thumbnail: "/images/blog/AIagents.png"
+thumbnail: "/public/images/blog/AIagents.png"
 ---
 
 Artificial intelligence (AI) is becoming a bigger part of our lives every day. Whether it’s helping us draft emails, suggesting new recipes, or even managing complex workflows, the possibilities feel endless. But with so many terms flying around—ChatGPT, Custom GPTs, AI Agents—it can get a little overwhelming.

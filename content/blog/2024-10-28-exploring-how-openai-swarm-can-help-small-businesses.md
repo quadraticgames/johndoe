@@ -5,7 +5,7 @@ categories:
   - "artificial-intelligence-ai"
   - "other"
   - "tools"
-thumbnail: "/images/blog/aiagent.png"
+thumbnail: "/public/images/blog/aiagent.png"
 ---
 
 I've been exploring **[OpenAI's Swarm](https://github.com/openai/swarm)**, and I have to say, it's an impressive tool, especially for small businesses (and for gaming and simulations too, which I'll cover in a future post). At first glance, it may seem like something only deep AI developers would care about, but its potential for small businesses is exciting. Let’s dive into how Swarm could manage workflows, handle customer support, and streamline HR and marketing—with the help of a little AI magic!

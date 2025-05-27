@@ -1,7 +1,7 @@
 ---
 title: "One-Hour Unity Class: Lights, Camera, Post!"
 excerpt: The basics of lighting and visual effects in Unity
-date: 2025-05-15
+date: 2025-05-24
 readingTime: 8
 category: Unity
 thumbnail: /images/blog/ulighting.png

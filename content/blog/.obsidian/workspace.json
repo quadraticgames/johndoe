@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lights-camera-post.md",
+                "file": "2021-02-03-machina-vol-ii-industrie-available-on-spotify-itunes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lights-camera-post"
+              "title": "2021-02-03-machina-vol-ii-industrie-available-on-spotify-itunes"
             }
           }
         ]
@@ -170,10 +170,31 @@
   },
   "active": "c510f77f279873c8",
   "lastOpenFiles": [
-    "a-beautiful-sample.md",
-    "mastering-typescript-large-scale-applications.md",
-    "state-management-2025-beyond-redux.md",
+    "2020-08-12-first-person-walking-controls-for-oculus-rift.md",
     "lights-camera-post.md",
-    "building-accessible-react-applications.md"
+    "2025-03-04-the-fascinating-world-of-zero-player-games.md",
+    "2025-02-19-artpixelfy-a-dive-into-pixel-art-and-retro-graphics.md",
+    "2025-02-09-ai-wont-replace-you-but-someone-else-might.md",
+    "2025-01-28-ai_gamedev.md",
+    "2025-01-12-understanding-chatgpt-custom-gpts-and-ai-agents-whats-the-difference.md",
+    "2025-01-07-tinyglade.md",
+    "2024-12-12-eve-frontier-a-visionary-leap.md",
+    "2024-11-29-lets-build-multilingual-translation-app-with-windsurf.md",
+    "2024-11-22-what-exactly-is-ray-tracing.md",
+    "2024-11-22-a-fun-duotone-image-editor-web-app.md",
+    "2024-10-28-exploring-how-openai-swarm-can-help-small-businesses.md",
+    "2024-07-23-game-api.md",
+    "2024-04-23-game-of-life.md",
+    "2024-01-29-teamtorch-your-friendly-neighborhood-hr-helper.md",
+    "2024-01-24-building-your-own-custom-gpt.md",
+    "2024-01-09-game-sequel-concept-activity-kiss-rise-of-the-avatars.md",
+    "2023-09-02-goldberg-machine.md",
+    "2023-08-16-pinokio-the-ultimate-ai-browser.md",
+    "2023-08-01-using-mineways-to-export-minecraft-worlds-to-blender-and-3d-printing.md",
+    "2023-07-13-harnessing-the-power-of-visual-imagery-in-creative-writing.md",
+    "2023-06-30-unleashing-creativity-together-the-magic-of-collaborative-storytelling-and-google-docs.md",
+    "2023-06-24-my-first-visual-novel-a-journey-with-twine-and-ai.md",
+    "2023-05-31-the-wreck-of-the-compass-rose.md",
+    "2023-03-20-top-free-open-source-tools-for-designers-developers-and-creative-educators.md"
   ]
 }
