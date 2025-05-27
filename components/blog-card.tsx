@@ -39,14 +39,22 @@ export function BlogCard({
         <Card className="h-full cursor-pointer border-border/40 bg-card/30 backdrop-blur transition-all hover:border-primary/20 hover:shadow-md overflow-hidden">
           <div className="relative h-48 w-full overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10" />
-            <Image 
-              src={thumbnail.startsWith('/') ? thumbnail : `/${thumbnail}`} 
-              alt={title} 
-              fill 
-              className="object-cover" 
-              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-              priority
-            />
+            {thumbnail ? (
+              <Image 
+                src={thumbnail} 
+                alt={title} 
+                width={800}
+                height={450}
+                className="object-cover w-full h-full" 
+                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                priority
+                unoptimized
+              />
+            ) : (
+              <div className="bg-gray-200 w-full h-full flex items-center justify-center">
+                <span className="text-gray-500">No Image</span>
+              </div>
+            )}
           </div>
           <CardHeader>
             <div className="flex items-center justify-between">

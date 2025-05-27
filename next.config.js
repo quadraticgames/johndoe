@@ -10,7 +10,16 @@ const nextConfig = {
     // !! WARN !!
     ignoreBuildErrors: true,
   },
-  images: { unoptimized: true },
+  images: { 
+    unoptimized: true,
+    domains: ['johndoe-omega.vercel.app'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'johndoe-omega.vercel.app',
+      },
+    ],
+  },
   devIndicators: false,
   allowedDevOrigins: [
     "*.macaly.dev",
