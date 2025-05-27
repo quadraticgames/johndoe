@@ -41,7 +41,7 @@ export function BlogCard({
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10" />
             <div className="relative w-full h-full">
               <img 
-                src={`https://picsum.photos/seed/${encodeURIComponent(title)}/800/450`}
+                src={thumbnail || '/images/blog-placeholder.jpg'}
                 alt={title}
                 className="object-cover w-full h-full"
               />
