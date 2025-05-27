@@ -45,18 +45,12 @@ export function BlogCard({
                 Path: {thumbnail}
               </div>
               
-              {/* Use a regular img tag instead of Next.js Image component */}
-              {thumbnail ? (
-                <img 
-                  src={thumbnail.startsWith('/') ? thumbnail : `/${thumbnail}`}
-                  alt={title}
-                  className="object-cover w-full h-full"
-                />
-              ) : (
-                <div className="bg-gray-200 w-full h-full flex items-center justify-center">
-                  <span className="text-gray-500">No Image</span>
-                </div>
-              )}
+              {/* Use placeholder images until we can properly set up image deployment */}
+              <img 
+                src={`https://picsum.photos/seed/${slug}/800/450`}
+                alt={title}
+                className="object-cover w-full h-full"
+              />
             </div>
           </div>
           <CardHeader>
