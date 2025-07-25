@@ -39,18 +39,14 @@ export function BlogCard({
         <Card className="h-full cursor-pointer border-border/40 bg-card/30 backdrop-blur transition-all hover:border-primary/20 hover:shadow-md overflow-hidden">
           <div className="relative h-48 w-full overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10" />
-            <div className="relative w-full h-full">
-              <img 
-                src={thumbnail || '/images/blog/blog-placeholder.jpg'}
-                alt={title}
-                className="object-cover w-full h-full"
-                onError={(e) => {
-                  console.error('Failed to load image:', thumbnail);
-                  // Fallback to placeholder if image fails to load
-                  e.currentTarget.src = '/images/blog/blog-placeholder.jpg';
-                }}
-              />
-            </div>
+            <Image
+              src={thumbnail || '/images/blog/blog-placeholder.jpg'}
+              alt={title}
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              priority={index < 3}
+            />
           </div>
           <CardHeader>
             <div className="flex items-center justify-between">
