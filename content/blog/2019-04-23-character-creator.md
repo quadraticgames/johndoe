@@ -13,10 +13,10 @@ This was a fantastic introduction to the visual scripting system **[Playmaker](h
 
 Here is the first draft of the editor scene:
 
-![](images/Screenshot_5.png)
+![](/images/blog/Screenshot_5.png)
 
 And here are screen grabs from the completed scene:
 
-![](images/Screenshot_8.png) ![](images/Screenshot_9.png) ![](images/Screenshot_13.png) ![](images/Screenshot_12.png)
+![](/images/blog/Screenshot_8.png) ![](/images/blog/Screenshot_9.png) ![](/images/blog/Screenshot_13.png) ![](/images/blog/Screenshot_12.png)
 
 You can also try out a low-resolution WebGL build **[by clicking here](https://quadraticgames.com/downloads/character-creator/)**.

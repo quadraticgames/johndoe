@@ -12,7 +12,7 @@ Hey everyone! I'm excited to introduce my latest project: [**ArtPixelfy**](https
 
 ArtPixelfy is a free, open-source web app that allows you to pixelate images with customizable settings. It’s designed to be intuitive and accessible, so anyone can use it without needing advanced image editing skills. Just upload an image, tweak the pixelation settings, and watch your artwork transform into a retro-styled composition reminiscent of classic video games and early computer graphics.
 
-![artpixelfy](images/artpixelfy.png)
+![artpixelfy](/images/blog/artpixelfy.png)
 
 ### Learning Through Pixel Art
 

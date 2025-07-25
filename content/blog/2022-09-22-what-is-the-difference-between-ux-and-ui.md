@@ -19,7 +19,7 @@ The user experience design process involves the visual and functional aspects of
 
 Clearly, the ideal user experience is what you want your users to expect from your product. A great user experience is key to creating successful software. You must understand your users and their needs thoroughly so you can design your software accordingly. When you understand your users, you can create the best product for them.
 
-\[caption id="attachment\_1370" align="aligncenter" width="389"\]![](images/UX_Honeycomb.png) Important attributes of successful user experience design\[/caption\]
+\[caption id="attachment\_1370" align="aligncenter" width="389"\]![](/images/blog/UX_Honeycomb.png) Important attributes of successful user experience design\[/caption\]
 
 ## User Interface Design
 

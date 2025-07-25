@@ -14,13 +14,13 @@ thumbnail: "/images/blog/computer.png"
 
 The title **_Angie's Place_** (and the game itself) was inspired by my wife, Angie. We've been married since 1994 and have always been big gamers. Over the past few years, she's developed a fondness for time-management games like _Restaurant DASH with Gordon Ramsay_ and other games in that genre. And there are other games like slot games which are great to make money, [click here now](https://theceo.in/blogs/new-releases-from-pragmatic-play/) to find more information on this.
 
-![](images/angiesplace.png)
+![](/images/blog/angiesplace.png)
 
 ## The Wall Clock
 
 Although the wall clock functions properly in the main game level, the passage of time in the tutorial level was a bit problematic since I'm not actually tracking time during the tutorial. To avoid potential continuity goofs, I took the clock off of the wall, and as the tutorial notes, mentioned that the clock was being 'repaired' by a guy named Joe (which is my name, by the way :)).
 
-![](images/aplace1.png)
+![](/images/blog/aplace1.png)
 
 \* Thank you to varglbargl for the working clock template!
 
@@ -28,31 +28,31 @@ Although the wall clock functions properly in the main game level, the passage o
 
 Also in the tutorial, you can see a person hanging artwork in the front of the tavern. Once the game starts, you may notice that the artwork is perfectly placed on the wall. Also, the person hanging the artwork in the tutorial is animating and appears to be using a tool. This is actually Core's _2hand\_rifle\_reload_ animation. :)
 
-![](images/aplace2.png)
+![](/images/blog/aplace2.png)
 
 ## Night and Day
 
 It is indicated that the tutorial takes place around lunchtime on an overcast day (it is still somewhat light outside if you look closely). When the game starts, however, it is dark and rainy.
 
-![](images/nday.png)
+![](/images/blog/nday.png)
 
 ## Modeling
 
 When creating the models for the beverage ingredients, I tried to model them using some of the color combinations and markings we associate with popular brands. I also tried to get as much mileage as I could out of Core decals, using them as faux brand emblems.
 
-![](images/ing.png)
+![](/images/blog/ing.png)
 
 ## I Have No Drink, And I Must Scream...
 
 During the main game - if you look closely, you can see a woman in the crowd drinking, but she has no cup/glass in her hand. Oops!
 
-![](images/lulz.png)
+![](/images/blog/lulz.png)
 
 ## Closing Time
 
 Once the game is over, the bar is empty (or mostly empty - there is a rare bug where one patron simply refuses to leave), and most of the lights have been turned off. For Core vets, this is probably easy-peasey to implement, but as my first game developing with Core, it was a little tricky. I thought this was so cool to get working.
 
-![](images/close.png)
+![](/images/blog/close.png)
 
 ## Creating the Tutorial Avatar
 
@@ -60,31 +60,31 @@ The "Angie" avatar in the tutorial was made by 1) creating a new Core project an
 
 For the initial game screenshot on the Core website, I used the avatar plus a shot of the tavern with gaussian blur and a vignette. By the way, if you look closely in the upper-right corner of this image, you can see a dev message that I forgot to remove!
 
-![](images/gameback.png)
+![](/images/blog/gameback.png)
 
 ## Wall Art
 
 There are several unique pieces of wall art in the tavern that are not a part of Core content. These images are all from **[Unsplash.com](http://www.unsplash.com)**, and I again utilized Aphrim's GIF System CC tool.
 
-![](images/art.png)
+![](/images/blog/art.png)
 
 ## Computer Monitor
 
 On the far right of the bar is a computer monitor. If you look closely, you will see that the screen is displaying the Core editor, as well as my project file for this invitational game!
 
-![](images/computer.png)
+![](/images/blog/computer.png)
 
 ## Bartender's Creed
 
 There is a clipboard near the exit door. The clipboard has a sheet of paper displaying  _The Bartenders Creed_ by William Chapman.
 
-![](images/CREED.png)
+![](/images/blog/CREED.png)
 
 ## Contra Forever!
 
 I spent my first few days of the jam prototyping a remaster of the classic SNES side-scroller Contra III. I wasn't feeling it at the time, but hey, this might be a fun one to remake in Core!
 
-![](images/contra.png)
+![](/images/blog/contra.png)
 
 ## Etc.
 

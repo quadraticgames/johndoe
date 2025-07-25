@@ -21,19 +21,19 @@ _Angie’s Place_ is my game submission for the Core 2.0 Invitational hosted by 
 
 ## Screenshot Gallery
 
-![](images/ss7.png)
+![](/images/blog/ss7.png)
 
-![](images/ss9.png)
+![](/images/blog/ss9.png)
 
-![](images/ss8.png)
+![](/images/blog/ss8.png)
 
-![](images/ss6.png)
+![](/images/blog/ss6.png)
 
-![](images/ss5.png)
+![](/images/blog/ss5.png)
 
-![](images/ss2.png)
+![](/images/blog/ss2.png)
 
-![](images/ss1.png)
+![](/images/blog/ss1.png)
 
 Trailer
 

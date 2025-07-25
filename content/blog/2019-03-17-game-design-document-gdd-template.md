@@ -7,7 +7,7 @@ categories:
 thumbnail: "/images/blog/quadraticgdd-1.png"
 ---
 
-[![](images/quadraticgdd.png)](/downloads/GDD.zip)
+[![](/images/blog/quadraticgdd.png)](/downloads/GDD.zip)
 
 This is my game design document template. To quote the Rifleman's Creed, "There are many like it, but this one is mine!" And now, you can make this template yours. This template should work for most any kind of game on any kind of digital platform.
 

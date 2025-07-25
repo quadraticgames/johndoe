@@ -25,7 +25,7 @@ For writing and editing, AI can offer suggestions, correct grammar, and ensure t
 
 **Here are some of the images I was able to create for my story with the assistance of MidJourney:**
 
-![](images/b_XHYD.png)![](images/kwZxJ.png)![](images/YgP2N.png)
+![](/images/blog/b_XHYD.png)![](/images/blog/kwZxJ.png)![](/images/blog/YgP2N.png)
 
 ## **The Learning Experience**
 

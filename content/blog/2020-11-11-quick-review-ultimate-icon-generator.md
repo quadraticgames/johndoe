@@ -11,7 +11,7 @@ thumbnail: "/images/blog/quadraticgamesicon.png"
 
 **[Ultimate Icon Generator](https://www.unrealengine.com/marketplace/en-US/product/ultimate-icon-generator)** is a clever little tool that I used to create some high quality icons for a project I'm working on. You open the 'map' and drag in any static mesh (or several meshes). You can resize, rotate, etc. the mesh. Clicking Export will create a 1024x1024 texture that is perfect for inventory icons and such. Projection can either be perspective or orthographic, and the background can be transparent or colored.
 
-![](images/Screenshot-50.png)
+![](/images/blog/Screenshot-50.png)
 
 At the bottom of the image above, you can see some of the textures I've created. At just $11.99, this tool is well worth it.
 

@@ -23,7 +23,7 @@ Perhaps the most famous zero-player game, Conway’s _Game of Life_ (which you c
 
 While _Dwarf Fortress_ is typically a player-driven experience, it can be set up to run autonomously. The game’s world simulation, with its complex AI behaviors, procedural storytelling, and interwoven systems, can unfold entirely without human intervention. Some players even create fortresses, then step back and observe as dwarves live (and inevitably die) according to their programmed behaviors.
 
-\[caption id="attachment\_1011" align="aligncenter" width="1920"\]![dwarffortress](images/dwarffortress.jpg) Dwarf Fortress\[/caption\]
+\[caption id="attachment\_1011" align="aligncenter" width="1920"\]![dwarffortress](/images/blog/dwarffortress.jpg) Dwarf Fortress\[/caption\]
 
 ### **AI-Generated Battles (RoboCode, AI Dungeon, and More)**
 

@@ -15,15 +15,15 @@ The build is playable, although not very polished. There are performance issues,
 
 Here are some screenshots:
 
-![](images/fw5.jpg)
+![](/images/blog/fw5.jpg)
 
-![](images/fw4.jpg)
+![](/images/blog/fw4.jpg)
 
-![](images/fw3.jpg)
+![](/images/blog/fw3.jpg)
 
-![](images/fw2.jpg)
+![](/images/blog/fw2.jpg)
 
-![](images/fw1.jpg)
+![](/images/blog/fw1.jpg)
 
 After completing the tutorial, I challenged myself to figure out how to add the following features (strictly using documentation and online resources, mostly YouTube videos):
 

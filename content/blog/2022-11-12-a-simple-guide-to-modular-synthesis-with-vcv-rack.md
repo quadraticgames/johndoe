@@ -11,7 +11,7 @@ thumbnail: "/images/blog/vcvpng.png"
 
 Modular synthesizer systems are built to be versatile and powerful, and thus can take up a LOT of physical space due to the size of the modules, and all of the cables needed for patch points. Although these synthesizers have been around for decades - and are still popular - many people aren’t familiar with them because of their steep learning curve, their need for a lot of physical space, and their fairly exorbitant costs.
 
-\[caption id="attachment\_448" align="aligncenter" width="1145"\]![](images/modsynth.png) Modular synths can take up an enormous amount of physical space\[/caption\]
+\[caption id="attachment\_448" align="aligncenter" width="1145"\]![](/images/blog/modsynth.png) Modular synths can take up an enormous amount of physical space\[/caption\]
 
 Yes, modular synthesizers are complicated beasts. But what if you don’t want the hassle of patching and all that other stuff? What if you just want to play around with some awesome sounds and experiment with some unique modules without having to learn a bunch of routing tricks or other CV techniques?
 
@@ -48,7 +48,7 @@ You can add as many modules as you’d like. While most of the modules are self-
 
 You can also re-arrange the order of the modules by clicking and dragging them around the chain.
 
-\[caption id="attachment\_449" align="aligncenter" width="1537"\]![](images/vcv.png) A sample VCV Rack patch\[/caption\]
+\[caption id="attachment\_449" align="aligncenter" width="1537"\]![](/images/blog/vcv.png) A sample VCV Rack patch\[/caption\]
 
 ## Conclusion
 

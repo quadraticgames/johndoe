@@ -15,7 +15,7 @@ _"Hear the cooing of my cries, a haunting hymn to guide your way,_ _Through the 
 
 In the realm of mystical echoes and fantastical wonders, aboard The Wreck of the Compass Rose, our gallant band of adventurers beheld a grotesque monstrosity - a beast seemingly woven from the raw threads of a nightmare, bearing a chilling resemblance to a colossal vulture. Its abhorrent cry, a discordant symphony of aggression and malice, rent the air. The ghastly creature sought to deter the intrepid heroes from their path, but failing to do so, it leapt into the maelstrom of battle. Its talons, jagged as winter's frost, cleaved into Nightsong, leaving the taste of pain and fury in his soul. Unfazed, Wey-Tan's yew longbow found its mark, the well-honed shaft burrowing into the bestial body of the creature, as did Wonder's deadly quarrel from his trusty crossbow.
 
-[![](images/harpy.png)](http://quadraticgames.com/wp-content/uploads/2023/05/harpy.png)
+[![](/images/blog/harpy.png)](http://quadraticgames.com/wp-content/uploads/2023/05/harpy.png)
 
 Suddenly, a second harpy entered the fray, its arrival marked by a quarrelsome discourse with its wounded kin. Its enchanting song then weaved an insidious melody, ensnaring the minds of Wonder, Arlent, and Nightsong, casting them under its eldritch charm. Arlent, in particular, succumbed to the irresistible allure of the bird's serenade, clumsily stumbling over the debris strewn across the deck, until gravity claimed him, plunging him into the icy embrace of the waters below. Wey-Tan, ever the steadfast archer, launched another arrow, dealing a crippling blow to the already injured beast. Yet, the creature continued to bewitch the heroes with its beguiling song.
 

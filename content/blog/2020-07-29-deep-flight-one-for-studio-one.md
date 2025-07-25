@@ -7,7 +7,7 @@ categories:
 thumbnail: "/images/blog/df1.png"
 ---
 
-![](images/deep-flight-one-04.png)
+![](/images/blog/deep-flight-one-04.png)
 
 Earlier this week **PreSonus** released **Deep Flight One** for **Studio One**, an expansion pack for **Presence XT**. As a refresher, Presence XT is Studio One's native virtual sample-player instrument (similar to Kontakt and EXS24).
 

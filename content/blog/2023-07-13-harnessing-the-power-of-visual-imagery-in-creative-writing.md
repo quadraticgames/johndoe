@@ -27,4 +27,4 @@ In conclusion, the exercise of using images to inspire plot summaries is a power
 
 Think of potential plot summaries for the images below.
 
-![](images/scene1-1024x574.png) ![](images/scene2-1-1024x574.png) ![](images/scene7-1024x574.png) ![](images/scene8-1024x576.png) ![](images/scene3-1024x574.png)
+![](/images/blog/scene1-1024x574.png) ![](/images/blog/scene2-1-1024x574.png) ![](/images/blog/scene7-1024x574.png) ![](/images/blog/scene8-1024x576.png) ![](/images/blog/scene3-1024x574.png)

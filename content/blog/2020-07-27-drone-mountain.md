@@ -20,6 +20,6 @@ The game is free to download and play, [and you can get it over at itch.io](http
 
 ## Screenshots
 
-![](images/nJumA.png)
+![](/images/blog/nJumA.png)
 
-![](images/fOs1hs.png)
+![](/images/blog/fOs1hs.png)

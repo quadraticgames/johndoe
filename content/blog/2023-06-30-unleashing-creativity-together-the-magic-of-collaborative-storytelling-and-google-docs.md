@@ -20,7 +20,7 @@ Collaborative storytelling is like having a writing party. It's where you and a 
 2. **Level Up Your Skills:** Collaborating with others is also like having a personal writing workshop. You get to learn from other writers, pick up new techniques, and get instant feedback. It's a fantastic way to polish your writing skills.
 3. **It's a Party:** Writing doesn't have to be a lonely endeavor. Collaborative storytelling turns it into a fun, social activity. You're not just creating a story; you're also building a community of fellow writers who share your passion.
 
-## ![](images/tellstories.png)
+## ![](/images/blog/tellstories.png)
 
 ## Google Docs: Your Collaborative Storytelling Playground
 

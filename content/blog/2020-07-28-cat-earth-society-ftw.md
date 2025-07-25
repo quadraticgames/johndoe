@@ -24,6 +24,6 @@ A mysterious entity appeared above Earth years ago. After finding out the planet
 
 ## Screenshots
 
-![](images/c2.png)
+![](/images/blog/c2.png)
 
-![](images/c1.png)
+![](/images/blog/c1.png)
