@@ -56,8 +56,8 @@ export async function getAllPosts(): Promise<BlogPost[]> {
             excerpt: data.excerpt || 'No excerpt available',
             date: data.date || new Date().toISOString().split('T')[0],
             readingTime: data.readingTime || '5 min read',
-            category: data.category || 'Uncategorized',
-            thumbnail: data.thumbnail || data.coverImage || '/images/blog-placeholder.jpg',
+            category: data.category || (Array.isArray(data.categories) ? data.categories[0] : data.categories) || 'Uncategorized',
+            thumbnail: data.thumbnail || data.coverImage || '/images/blog/blog-placeholder.jpg',
           } as BlogPost;
         } catch (err) {
           console.error(`Error processing blog file ${fileName}:`, err);
