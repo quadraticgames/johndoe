@@ -17,13 +17,13 @@ The first step here is to load your Minecraft world into Mineways. After install
 
 Once your world is loaded, you can use the left mouse button to move about your world's map, and the right button to select the area you want to export. I recommend selecting a very small portion of your map to start with, and then increasing the size of your selection as you become familiar with how Mineways works.
 
-\[caption id="attachment\_728" align="aligncenter" width="930"\]![](images/Screenshot-2023-08-01-181804.png) Mineways' rudimentary user interface belies an enormously powerful set of tools\[/caption\]
+\[caption id="attachment\_728" align="aligncenter" width="930"\]![](/images/blog/Screenshot-2023-08-01-181804.png) Mineways' rudimentary user interface belies an enormously powerful set of tools\[/caption\]
 
 ### Exporting Minecraft Worlds for Use in Blender
 
 After selecting your desired area, navigate to 'File' and then 'Export for Rendering.' This will create an .obj file that can be imported into Blender. Mineways includes several texture files that you can use when exporting your .obj file, giving you the flexibility to maintain the look and feel of your Minecraft world in Blender. Alternatively, you can use your own textures for a more personalized touch.
 
-\[caption id="attachment\_714" align="alignnone" width="1536"\]![](images/minecraft.jpg) _Rockefeller Plaza (schematic by Planet Minecraft user BasVerhagen) exported from Mineways and rendered in Blender_\[/caption\]
+\[caption id="attachment\_714" align="alignnone" width="1536"\]![](/images/blog/minecraft.jpg) _Rockefeller Plaza (schematic by Planet Minecraft user BasVerhagen) exported from Mineways and rendered in Blender_\[/caption\]
 
 ### Fun and Educational
 

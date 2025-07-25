@@ -14,7 +14,7 @@ I am always on the lookout for innovative ways to merge technology with educatio
 
 Rube Goldberg gained widespread recognition for his cartoons. They featured elaborate and roundabout contraptions that accomplished simple tasks.
 
-\[caption id="attachment\_764" align="aligncenter" width="800"\]![](images/rgoldberg-1.png) One of Goldberg's many contraptions\[/caption\]
+\[caption id="attachment\_764" align="aligncenter" width="800"\]![](/images/blog/rgoldberg-1.png) One of Goldberg's many contraptions\[/caption\]
 
 Goldberg's machines, famously known as "Rube Goldberg machines," were intricately crafted contraptions created to execute uncomplicated tasks. They operated by triggering a sequence of events, where each action set off the next, like balls rolling, pulleys shifting, or levers tugging, until the final objective was accomplished. These marvelous contrivances were often assembled using ordinary items found in daily life, blended with a touch of wit and absurdity, resulting in delightful visuals.
 
@@ -50,7 +50,7 @@ Delving into Rube Goldberg Machines with this Learning Kit provides more than ju
 
 This holistic approach ensures that newcomers to Unreal Engine gain a comprehensive foundation, readying them for more advanced undertakings in the future.
 
-\[caption id="attachment\_786" align="aligncenter" width="779"\]![](images/ulearning-2.png) Unreal Learning Kits teach new users the basics of Unreal Engine in engaging and memorable ways\[/caption\]
+\[caption id="attachment\_786" align="aligncenter" width="779"\]![](/images/blog/ulearning-2.png) Unreal Learning Kits teach new users the basics of Unreal Engine in engaging and memorable ways\[/caption\]
 
 ### **Why I Love Using Unreal Engine for STEM**
 

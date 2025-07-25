@@ -7,7 +7,7 @@ categories:
 thumbnail: "/images/blog/cwork.png"
 ---
 
-\[caption id="attachment\_976" align="aligncenter" width="2912"\]![](images/cwork.png) Credits: Author via Midjourney.\[/caption\]
+\[caption id="attachment\_976" align="aligncenter" width="2912"\]![](/images/blog/cwork.png) Credits: Author via Midjourney.\[/caption\]
 
 Technology has a habit of shaking up the workforce, but it’s less like a wrecking ball and more like a relentless interior designer. Sure, it rearranges the furniture—sometimes tossing out the rotary phone or the filing cabinet—but it rarely burns the whole house down.
 
@@ -21,7 +21,7 @@ Let’s unpack the past to prepare for the future.
 
 In the 1950s, the milkman was as essential as morning coffee. He’d clink bottles on doorsteps before dawn, a hero of dairy logistics. Then affordable consumer refrigerators showed up in homes, and supermarkets began stocking milk by the gallon. Suddenly, the need for daily milk delivery faded.
 
-\[caption id="attachment\_972" align="aligncenter" width="858"\]![](images/Clarks_Dairy_milk_delivery_in_Ottawa_-_Aug._1959_29540765584.jpg) Clark's Dairy, circa 1959. Credits: Wiki Commons.\[/caption\]
+\[caption id="attachment\_972" align="aligncenter" width="858"\]![](/images/blog/Clarks_Dairy_milk_delivery_in_Ottawa_-_Aug._1959_29540765584.jpg) Clark's Dairy, circa 1959. Credits: Wiki Commons.\[/caption\]
 
 But here’s the twist: the milkman didn’t disappear. He pivoted.
 
@@ -41,7 +41,7 @@ The result? Between 1970 and 2010—when ATMs were expected to replace bank tell
 
 It is true that some jobs don’t evolve—they disappear. One example is human computers—people who performed complex calculations by hand. Throughout the early to mid-20th century, human computers worked in fields like astronomy, engineering, and wartime code-breaking. [NASA employed hundreds of them](https://www.nasa.gov/centers-and-facilities/jpl/when-computers-were-human/) to calculate aircraft performance and rocket trajectories.
 
-\[caption id="attachment\_970" align="aligncenter" width="1041"\]![](images/human_computersmain-1041.webp) A "human computer" works with an early machine computer, the IBM 704. Credits: NASA/JPL-Caltech.\[/caption\]
+\[caption id="attachment\_970" align="aligncenter" width="1041"\]![](/images/blog/human_computersmain-1041.webp) A "human computer" works with an early machine computer, the IBM 704. Credits: NASA/JPL-Caltech.\[/caption\]
 
 But when electronic computers emerged in the 1960s, human computers were rendered obsolete. By the 1970s, the profession was gone.
 
@@ -71,7 +71,7 @@ Adaptable workers willing to learn new skills are more likely to thrive in an AI
 
 ## **How to Future-Proof Your Career (Without Panic-Googling “Coding Bootcamps”)**
 
-\[caption id="attachment\_975" align="aligncenter" width="2560"\]![](images/jeshoots-com-2vD8lIhdnw-unsplash-scaled.jpg) Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-biting-pencil-while-sitting-on-chair-in-front-of-computer-during-daytime--2vD8lIhdnw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)\[/caption\]
+\[caption id="attachment\_975" align="aligncenter" width="2560"\]![](/images/blog/jeshoots-com-2vD8lIhdnw-unsplash-scaled.jpg) Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-biting-pencil-while-sitting-on-chair-in-front-of-computer-during-daytime--2vD8lIhdnw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)\[/caption\]
 
 The good news? You don’t need to be a programmer or AI expert to stay ahead. Here’s how:
 

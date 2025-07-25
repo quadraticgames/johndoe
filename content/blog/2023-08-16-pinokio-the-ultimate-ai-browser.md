@@ -27,7 +27,7 @@ Traditionally, using command-line applications was a tedious and time-consuming 
 
 This makes it possible for users to use CLI apps without having to learn the terminal or deal with complex environment settings. Pinokio is a powerful tool that makes it easy for anyone to use CLI apps, regardless of their technical expertise.
 
-\[caption id="attachment\_745" align="aligncenter" width="2018"\]![](images/comfyui.png) Launch your favorite AI apps with a single click\[/caption\]
+\[caption id="attachment\_745" align="aligncenter" width="2018"\]![](/images/blog/comfyui.png) Launch your favorite AI apps with a single click\[/caption\]
 
 ### **3\. Servers in a Browser**
 
@@ -73,7 +73,7 @@ Here is a more detailed look at what the Pinokio documentation offers:
 - **Turing complete script**: The Pinokio documentation describes the Turing complete script that is used to control Pinokio virtual computers. This script can be used to automate tasks, create custom applications, and even interact with the real world.
 - **Hacking the Pinokio kernel**: The Pinokio documentation provides instructions on how to hack the Pinokio kernel to create custom APIs. This can be useful for developers who want to extend the functionality of Pinokio or integrate it with other systems.
 
-\[caption id="attachment\_740" align="aligncenter" width="1456"\]![](images/documentation.png) The Pinokio documentation is comprehensive, well-written, and easy to understand!\[/caption\]
+\[caption id="attachment\_740" align="aligncenter" width="1456"\]![](/images/blog/documentation.png) The Pinokio documentation is comprehensive, well-written, and easy to understand!\[/caption\]
 
 ### **6\. A Living, Breathing Application**
 
@@ -94,7 +94,7 @@ To stay abreast of the latest developments in Pinokio, users can follow the proj
 
 Pinokio's main website is a treasure trove of scripts for tech enthusiasts. From audio-related neural networks to text-generation web UIs, there is something for everyone.
 
-\[caption id="attachment\_743" align="aligncenter" width="718"\]![](images/explore.png) Tons of scripts to explore\[/caption\]
+\[caption id="attachment\_743" align="aligncenter" width="718"\]![](/images/blog/explore.png) Tons of scripts to explore\[/caption\]
 
 Here are a few notable scripts:
 

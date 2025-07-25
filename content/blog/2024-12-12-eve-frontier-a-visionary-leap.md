@@ -49,7 +49,7 @@ The game introduces two primary tokens:
 
 CCP Games also plans to open-source its proprietary Carbon Engine, inviting players and developers to expand the game world. Tools like Solidity, the MUD Framework, and Redstone allow for player-driven innovation, from creating mission systems to private economies and automated resource networks. Let's take a closer look at some of those tools.
 
-![](images/fdafda.png)Source: CCP Games
+![](/images/blog/fdafda.png)Source: CCP Games
 
 ## Development Tools and Languages
 
@@ -77,7 +77,7 @@ While _EVE Frontier_ is undeniably ambitious, significant hurdles remain:
 2. **Community Fragmentation**: The _EVE Online_ community, fiercely loyal and vocal, may (and seems to already) view _EVE Frontier_ with suspicion—especially if it appears to detract from ongoing development of the original game.
 3. **Complexity**: Balancing gameplay for both tech-savvy players and those who prefer simpler mechanics will be critical to ensuring accessibility. Will players who are unfamiliar with—or uninterested in—coding, blockchain, and similar features still enjoy the game?"
 
-![](images/img.avif)Source: CCP Games
+![](/images/blog/img.avif)Source: CCP Games
 
 ## A Bold Future
 

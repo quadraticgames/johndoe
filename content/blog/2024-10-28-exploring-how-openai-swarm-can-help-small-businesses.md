@@ -18,7 +18,7 @@ Instead of relying on a single application to handle everything, Swarm creates a
 
 Let's explore how Swarm could make a real difference in a small business environment.
 
-![](images/skills-1-1024x602.png)
+![](/images/blog/skills-1-1024x602.png)
 
 ## 1\. **Automating Customer Support**
 

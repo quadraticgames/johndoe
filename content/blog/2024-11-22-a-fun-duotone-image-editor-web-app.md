@@ -12,7 +12,7 @@ Creating [**Hue Two: A Duotone Zoo**](https://duotoneapp.netlify.app), a playful
 
 [This app](https://duotoneapp.netlify.app) is an interactive tool that transforms images into vibrant duotone art. You can upload your own image or search for one using [Unsplash](http://unsplash.com), select two custom colors, and watch the magic unfold. It's designed to be fun and to use, ideal for anyone who wants to add artistic flair to their images.
 
-![](images/Screenshot-2024-11-22-145356.png)
+![](/images/blog/Screenshot-2024-11-22-145356.png)
 
 ### How AI Helped Build This App
 

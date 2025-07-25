@@ -19,7 +19,7 @@ At its heart, ray tracing is all about _light_. To understand it, you need to th
 
 Here’s how it works: imagine a ray of light leaving a source, like the sun. It travels until it hits something—a tree, a rock, or maybe a puddle of water. At that point, the ray interacts with the surface. It might bounce off, creating a reflection, or pass through, bending and scattering as it does. Every interaction affects the ray’s path, color, and intensity. Ray tracing follows these journeys, capturing all those interactions to render images that feel alive.
 
-![](images/rt.png) Source: [Henrik](https://commons.wikimedia.org/wiki/File:Ray_trace_diagram.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+![](/images/blog/rt.png) Source: [Henrik](https://commons.wikimedia.org/wiki/File:Ray_trace_diagram.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
 But why go through all that trouble? Traditional rendering techniques, like rasterization, use shortcuts to approximate lighting. They can produce good visuals, but they struggle with dynamic reflections, realistic shadows, and nuanced lighting. Ray tracing aims to simulate—precisely—how light and shadows behave in the physical world.
 
@@ -29,7 +29,7 @@ Let’s step into a video game like _Cyberpunk 2077_, where ray tracing really d
 
 What’s fascinating about ray tracing is its ability to blur the line between real and virtual. It creates visuals so convincing that you might catch yourself pausing to admire a reflection in a puddle or the way sunlight filters through a stained-glass window. Suddenly, the world feels less like a collection of polygons and pixels and more like a place you could actually step into.
 
-![](images/dxr-ray-tracing-technique-in-games-benchmarks-rtx-tech-demos-1024x465.png)
+![](/images/blog/dxr-ray-tracing-technique-in-games-benchmarks-rtx-tech-demos-1024x465.png)
 
 Source: NVIDIA
 

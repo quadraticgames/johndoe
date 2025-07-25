@@ -12,7 +12,7 @@ For anyone who has ever been curious about 3D modeling but felt overwhelmed by c
 
 At its core, _Tiny Glade_ isn’t a traditional modeling program or even a competitive _game_. It’s an artful and minimalist experience that encourages creativity through the simple act of building. You’re given a serene, natural canvas where you can craft dreamy structures like bridges, walls, towers, and gardens without any pressure or objectives. It’s perfect for beginners who want to explore the joys of 3D creation without wading through complex technical jargon or learning complicated toolsets.
 
-![](images/1*fzKE0xEbGmVM9-DST45s2Q.jpeg)
+![](/images/blog/1*fzKE0xEbGmVM9-DST45s2Q.jpeg)
 
 ### Learning the Basics of 3D Modeling
 
@@ -40,7 +40,7 @@ For example, rather than designing a perfectly symmetrical castle or meticulousl
 
 This freedom to experiment and embrace imperfections is invaluable for learning how to break away from rigid design rules. It fosters creativity and helps you develop an appreciation for designs that are not bound by perfect symmetry or strict alignment — a lesson that can greatly enhance your work in more advanced modeling tools.
 
-![](images/1*uPmtXuK7mU-g5apAZWwv5g.png)
+![](/images/blog/1*uPmtXuK7mU-g5apAZWwv5g.png)
 
 ### A Gateway to Design Aesthetics
 
@@ -48,7 +48,7 @@ Beyond its technical accessibility, _Tiny Glade_ offers a masterclass in desig
 
 This attention to detail makes _Tiny Glade_ a valuable tool for anyone interested in the artistry of 3D environments. You begin to notice how shapes, materials, and lighting affect the mood of a scene. While you’re busy building that perfect garden or winding path, you’re also developing an eye for balance and proportion, key skills in both game design and architecture.
 
-![](images/1*MEhr2PRzY2GvcVLAhPkx0g.png)
+![](/images/blog/1*MEhr2PRzY2GvcVLAhPkx0g.png)
 
 ### Stress-Free Exploration
 

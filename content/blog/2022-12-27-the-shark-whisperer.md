@@ -9,7 +9,7 @@ thumbnail: "/images/blog/cover.png"
 
 # The Shark Whisperer
 
-![](images/DALL·E-2022-12-27-17.23.09-An-oil-painting-of-a-cliff-overlooking-the-ocean-300x300.png)
+![](/images/blog/DALL·E-2022-12-27-17.23.09-An-oil-painting-of-a-cliff-overlooking-the-ocean-300x300.png)
 
 As the sun began to set, Emma stood at the edge of the cliff, gazing out at the vast ocean below. The wind whipped through her hair and the waves crashed against the rocks below, the sound echoing in her ears. She took a deep breath and closed her eyes, trying to steady her racing heart. She knew what she had to do.
 

@@ -6,7 +6,7 @@ categories:
 thumbnail: "/images/blog/kissriseav.png"
 ---
 
-![](images/riseoftheavatars.png)
+![](/images/blog/riseoftheavatars.png)
 
 ### KISS: Rise of the Avatars
 

@@ -12,7 +12,7 @@ One of my heroes is **John Conway**, a mathematician renowned for his contribut
 
 I have paid tribute to Conway's legacy by recreating the Game of Life within a single HTML file, incorporating CSS and JavaScript. Please **[give it a try in your web browser](https://quadraticgames.com/games/cgol.html)** and also right click to check out the source code!
 
-[![](images/clickme.png)](https://quadraticgames.com/games/cgol.html)
+[![](/images/blog/clickme.png)](https://quadraticgames.com/games/cgol.html)
 
 ## About The Game of Life
 

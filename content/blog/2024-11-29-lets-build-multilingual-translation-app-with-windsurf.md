@@ -21,7 +21,7 @@ This wasn’t just about building a translation app. I wanted to explore how AI 
 
 Windsurf isn’t your average Integrated Development Environment (IDE). An IDE is a software application that combines tools developers need, like a code editor, debugger, and version control, into one unified workspace. What made Windsurf unique was its AI assistant, Cascade, which felt like an indispensable collaborator. Whether it was debugging, making smart coding suggestions, or streamlining tedious tasks, Cascade amplified my productivity.
 
-[![](images/Screenshot-2024-11-29-133031.png)](https://learnandtranslate.netlify.app)
+[![](/images/blog/Screenshot-2024-11-29-133031.png)](https://learnandtranslate.netlify.app)
 
 #### Features That Stood Out
 
