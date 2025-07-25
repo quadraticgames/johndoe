@@ -6,7 +6,7 @@ categories:
 thumbnail: "/images/blog/git.png"
 ---
 
-![](images/git-workflow-gitflow.png)
+![](/images/blog/git-workflow-gitflow.png)
 
 It's been a minute since I've used source control tools on mid-to-large sized software projects. Back in the day, we used Perforce and I recently revisited Perforce (which has a nice, free package for small teams). But I simply could not get it up and running.
 
